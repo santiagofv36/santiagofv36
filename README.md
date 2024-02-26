@@ -8,7 +8,7 @@ Me especializo en desarrollo de software con Python, Typescript, Javascript y C#
 
 * 🌍  Soy de Caracas Venezuela
 * ✉️  Me puedes contactar a [santiagofigueroavasquez@gmail.com](mailto:santiagofigueroavasquez@gmail.com)
-* 🚀  Actualmente estoy trabajando en [AirBnb Clone](http://github.com/santiagofv36/AirBnb-Clone)
+* 🚀  Actualmente estoy trabajando en [Avila Tek](https://www.avilatek.com/)
 * 🧠  Estoy aprendiendo Next.js, Tailwindcss
 
 ###  Habilidades
