@@ -9,7 +9,7 @@ Me especializo en desarrollo de software con Python, Typescript, Javascript y C#
 * 🌍  Soy de Caracas Venezuela
 * ✉️  Me puedes contactar a [santiagofigueroavasquez@gmail.com](mailto:santiagofigueroavasquez@gmail.com)
 * 🚀  Actualmente estoy trabajando en [Avila Tek](https://www.avilatek.com/)
-* 🧠  Estoy aprendiendo Next.js, Tailwindcss
+* 🧠  Estoy aprendiendo GraphQL & Prisma
 
 ###  Habilidades
 
